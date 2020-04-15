@@ -4,5 +4,3 @@ params:
   none: ""
 disableKinds:
   - RSS
-  - taxonomy
-  - taxonomyTerm
