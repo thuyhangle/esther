@@ -16,7 +16,7 @@ sections:
     component: intro.html
   - type: features
     content: >-
-      CON ĐƯỜNG NGHỆ THUẬT
+      #### CON ĐƯỜNG NGHỆ THUẬT
 
 
       ☆PHIM ĐIỆN ẢNH
@@ -72,7 +72,7 @@ sections:
 
       \- 2020 : Thanh Xuân Có Bạn mùa 2
     actions:
-      - label: Details
+      - label: Xem thông tin chi tiết
         url: /generic
         is_scrolly: false
         is_primary: false
