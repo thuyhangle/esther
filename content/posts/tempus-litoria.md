@@ -7,4 +7,7 @@ post_button_label: xem tiếp
 date: 2020-04-14T21:00:00.000Z
 layout: page
 ---
-U
+
+
+>  “Bởi vì tôi vốn đã xinh đẹp nên buổi tối không cần làm nhiều trò như Khổng Tuyết Nhi,\
+> tôi chỉ cần đi ngủ thôi”
