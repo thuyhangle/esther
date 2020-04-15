@@ -23,6 +23,8 @@ Ngu Thư Hân bày tỏ cảm xúc khi đứng ở vị trí đầu bảng bình
 
 Ngoài ra, trái với vẻ nhí nhảnh vô tư hàng ngày, Ngu Thư Hân còn khiến mọi người nhận ra cô nàng vô cùng yêu thương và quan tâm bạn bè, tự hứa sẽ cố gắng vâng lời các chị và chăm sóc các em (các thí sinh nhỏ tuổi hơn).
 
-Cập nhật 02/4:  Ngu Quý Phi gây thương nhớ với nhảy "Don't Ask" với chân trần váy trắng tựa như tiên nữ 
+**Cập nhật 02/4:  Ngu Quý Phi gây thương nhớ với nhảy "Don't Ask" với chân trần váy trắng tựa như tiên nữ** 
 
-![](/images/58.jpg "Bức ảnh cho thấy visual đỉnh cao gây sốt của Ngu Thư Hân. Trong tập 5, Don't Ask là tiết mục nhóm.")
+Bức ảnh cho thấy visual đỉnh cao gây sốt của Ngu Thư Hân. Trong tập 5, Don't Ask là tiết mục nhóm.
+
+![](/images/58.jpg)
