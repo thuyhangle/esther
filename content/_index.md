@@ -2,16 +2,9 @@
 title: " Trang chủ"
 sections:
   - type: intro
-    content: "\bTrang thông tin về Ngu Thư Hân - Esther ,\ 
-
-
-      nàng diễn viên xinh đẹp ngọt ngào đang được\ 
-
-
-      yêu thích nhất trong chương trình Thanh Xuân
-
-
-      Có Bạn mùa 2 (2020)"
+    content: "\bTrang thông tin về Ngu Thư Hân - Esther ,<br>nàng diễn viên xinh đẹp
+      ngọt ngào đang được<br>yêu thích nhất trong chương trình Thanh Xuân<br>Có
+      Bạn mùa 2 (2020)"
     actions:
       - label: "Cách bình chọn "
         url: /generic
