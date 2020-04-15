@@ -2,10 +2,9 @@
 title: " Trang chủ"
 sections:
   - type: intro
-    content: |-
-      Lorem ipsum dolor sit magna consectetur\
-      adipiscing elit. Duis dapibus rutrum facilisis.\
-      Class aptent taciti sociosqu torquent.
+    content: "\bTrang thông tin về Ngu Thư Hân, nàng diễn viên xinh đẹp ngọt ngào
+      đang được yêu thích nhất trong chương trình Thanh Xuân Có Bạn mùa 2
+      (2020)"
     actions:
       - label: "Cách bình chọn "
         url: /generic
@@ -73,7 +72,7 @@ sections:
       \- 2020 : Thanh Xuân Có Bạn mùa 2
     actions:
       - label: Xem thông tin chi tiết
-        url: /generic
+        url: https://www.facebook.com/nguthuhanvietnampage/
         is_scrolly: false
         is_primary: false
     title: "\bProfile"
