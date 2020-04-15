@@ -4,7 +4,7 @@ subtitle: Cùng vote cho Hân Hân nhé cả
 img_path: /images/20200315_15842536295912_mobile.jpeg
 menu:
   main:
-    name: ""
+    name: Bình chọn
     weight: 2
 layout: page
 ---
