@@ -2,13 +2,13 @@
 title: " Trang chủ"
 sections:
   - type: intro
-    content: "\bTrang thông tin về Ngu Thư Hân - Esther Y,<br>nàng diễn viên xinh
+    content: "##### \"Bởi vì tôi vốn đã xinh đẹp nên buổi tối không cần làm nhiều
+      trò  như Khổng Tuyết Nhi,<br>tôi chỉ cần đi ngủ thôi\"
+
+
+      \bTrang thông tin về Ngu Thư Hân - Esther Y,<br>nàng diễn viên xinh
       đẹp ngọt ngào đang được<br>yêu thích nhất trong chương trình Thanh
-      Xuân<br>Có Bạn mùa 2 (2020)
-
-
-      ###### \"Bởi vì tôi vốn đã xinh đẹp nên buổi tối không cần làm nhiều
-      trò  như Khổng Tuyết Nhi,<br>tôi chỉ cần đi ngủ thôi\""
+      Xuân<br>Có Bạn mùa 2 (2020)"
     actions:
       - label: "Cách bình chọn "
         url: /generic
