@@ -11,7 +11,7 @@ sections:
         is_scrolly: false
         is_primary: true
     title: " Ngu Thư Hân - Esther Yu - 虞书欣"
-    img_path: /images/b2d9bcd321d041fd842f3c360d2bb6c9.jpeg
+    img_path: /images/pic01.jpg
     component: intro.html
   - type: features
     content: >-
