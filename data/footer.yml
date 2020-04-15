@@ -1,6 +1,6 @@
 enable_contact_section: true
-copyright: '&copy; Reflex. All rights reserved. Lorem ipsum dolor sit amet nullam.'
+copyright: "&copy; fastfood6395."
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
+  - text: Made  by thuyhangle
+    url: https://github.com/thuyhangle/esther
     new_window: true
