@@ -2,16 +2,17 @@
 title: " Trang chủ"
 sections:
   - type: intro
-    content: Trang thông tin về Ngu Thư Hân, nàng diễn viên xinh đẹp và ngọt ngào
-      hiện đang được yêu thương nhất  chương trình Thanh Xuân Có bạn (Youth with
-      you) mùa 2
+    content: |-
+      Lorem ipsum dolor sit magna consectetur\
+      adipiscing elit. Duis dapibus rutrum facilisis.\
+      Class aptent taciti sociosqu torquent.
     actions:
       - label: "Cách bình chọn "
         url: /generic
         is_scrolly: false
-        is_primary: true
+        is_primary: false
     title: " Ngu Thư Hân - Esther Yu - 虞书欣"
-    img_path: /images/pic01.jpg
+    img_path: /images/b2d9bcd321d041fd842f3c360d2bb6c9.jpeg
     component: intro.html
   - type: features
     content: >-
