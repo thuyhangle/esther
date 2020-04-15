@@ -2,9 +2,13 @@
 title: " Trang chủ"
 sections:
   - type: intro
-    content: "\bTrang thông tin về Ngu Thư Hân - Esther ,<br>nàng diễn viên xinh đẹp
-      ngọt ngào đang được<br>yêu thích nhất trong chương trình Thanh Xuân<br>Có
-      Bạn mùa 2 (2020)"
+    content: "\bTrang thông tin về Ngu Thư Hân - Esther Y,<br>nàng diễn viên xinh
+      đẹp ngọt ngào đang được<br>yêu thích nhất trong chương trình Thanh
+      Xuân<br>Có Bạn mùa 2 (2020)
+
+
+      \"Bởi vì tôi vốn đã xinh đẹp nên <br>buổi tối không cần làm nhiều
+      trò như <br>Khổng Tuyết Nhi, tôi chỉ cần đi ngủ thôi\""
     actions:
       - label: "Cách bình chọn "
         url: /generic
@@ -113,22 +117,17 @@ sections:
         url: /generic
         is_scrolly: false
         is_primary: true
-    title: Duis torquent
-    subtitle: |-
-      Rutrum facilisis. Class aptent taciti sociosqu  
-      litora torquent et conubia etiam nostra.
+    title: News
+    subtitle: Cập nhật những tin tức mới nhất về Ngu Thư
     component: spotlight.html
   - type: mission
-    content: |-
-      Aptent taciti sociosqu litora torquent et conubia sed etiam.  
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam  
-      turpis mauris, ultricies erat malesuada quis.
+    content: ""
     actions:
       - label: Get Started
         url: /generic
         is_scrolly: false
         is_primary: false
-    title: Amet ullamcorper
+    title: "\bTestimonial"
     component: mission.html
 menu:
   main:
