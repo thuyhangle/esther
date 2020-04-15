@@ -43,50 +43,6 @@ sections:
         is_primary: false
     title: "\bProfile"
     subtitle: >-
-      ☆Tên Trung : 虞书欣
-
-
-      ☆Tên Tiếng Việt : Ngu Thư Hân
-
-
-      ☆Tên Tiếng Việt : Ngu Quý Phi, Ngu Phú Bà, Hân Hân, thánh dẹo, tiểu thư Thượng 
-
-
-      ☆Tên Tiếng Anh : Esther  Yu - Yu Shu Xin
-
-
-      ☆Tên Fandom : Tiểu Thạch Lựu - Quả Lựu Đỏ (小石榴 - Xiao Shi Liu)
-
-
-      ☆Sinh Thần : 18-12-1995
-
-
-      ☆Chòm Sao : Nhân Mã
-
-
-      ☆Chiều Cao : 1m68
-
-
-      ☆Cân Nặng : 50kg
-
-
-      ☆Nơi Sinh : Thượng Hải - Trung Quốc
-
-
-      ☆Nghề Nghiệp : Diễn viên, Ca Sĩ 
-
-
-      ☆Tốt Nghiệp : Đại Học Nghệ Thuật LASALLE College of the Arts
-    symbol_display:
-      - title: Film
-        icon: fa-film
-      - title: Feugiat
-        icon: fa-camera-retro
-      - title: music
-        icon: fa-music
-    component: features.html
-  - type: spotlight
-    content: >-
       ##### CON ĐƯỜNG NGHỆ THUẬT
 
 
@@ -142,6 +98,16 @@ sections:
 
 
       \- 2020 : Thanh Xuân Có Bạn mùa 2
+    symbol_display:
+      - title: Film
+        icon: fa-film
+      - title: Feugiat
+        icon: fa-camera-retro
+      - title: music
+        icon: fa-music
+    component: features.html
+  - type: spotlight
+    content: ""
     actions:
       - label: " Tìm hiểu thêm"
         url: /generic
