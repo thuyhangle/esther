@@ -7,8 +7,8 @@ sections:
       Xuân<br>Có Bạn mùa 2 (2020)
 
 
-      ###### \"Bởi vì tôi vốn đã xinh đẹp nên <br>buổi tối không cần làm
-      nhiều trò như <br>Khổng Tuyết Nhi, tôi chỉ cần đi ngủ thôi\""
+      ###### \"Bởi vì tôi vốn đã xinh đẹp nên buổi tối không cần làm nhiều
+      trò <br> như Khổng Tuyết Nhi, tôi chỉ cần đi ngủ thôi\""
     actions:
       - label: "Cách bình chọn "
         url: /generic
@@ -122,16 +122,12 @@ sections:
     component: spotlight.html
   - type: mission
     content: >-
-      Triệu Tiểu Đường: 
+      > Cô ấy rất biết quan tâm mọi người, Ngu Thư Hân là người đầu tiên đã dọn
+      sạch kí túc. - Triệu Tiểu 
 
+      >
 
-      > Cô ấy rất biết quan tâm mọi người, Ngu Thư Hân là người đầu tiên đã dọn sạch kí túc. 
-
-
-      Triệu Chí  Vỹ:
-
-
-      > Em ấy thực sự cố gắng rất nhiều để thực hiện cảnh quay lộn lộn người nhiều lần, quyết không dùng diễn viên đóng thế. <br>Tôi cảm thấy tự hào vì là bạn diễn chung với Ngu Thư Hân.
+      > Em ấy thực sự cố gắng rất nhiều để thực hiện cảnh quay lộn lộn người nhiều lần, quyết không dùng diễn viên đóng thế. <br>Tôi cảm thấy tự hào vì là bạn diễn chung với Ngu Thư Hân. - Triệu Chí V
     actions:
       - label: " Xem thêm"
         url: /generic
