@@ -126,13 +126,15 @@ sections:
       sạch kí túc.
 
 
-      Triệu Tiểu  Đường    
+      \- Triệu Tiểu  Đường    
+
+
 
 
       > Em ấy thực sự cố gắng rất nhiều để thực hiện cảnh quay lộn lộn người nhiều lần, <br> quyết không dùng diễn viên đóng thế.<br>Tôi cảm thấy tự hào vì là bạn diễn chung với Ngu Thư Hân. 
 
 
-      Triệu Chí Vỹ
+      \- Triệu Chí Vỹ
     actions:
       - label: " Xem thêm"
         url: /generic
