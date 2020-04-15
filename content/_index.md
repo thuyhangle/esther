@@ -2,15 +2,15 @@
 title: " Trang chủ"
 sections:
   - type: intro
-    content: "\bTrang thông tin về Ngu Thư Hân, nàng diễn viên xinh đẹp ngọt ngào
-      đang được yêu thích nhất trong chương trình Thanh Xuân Có Bạn mùa 2
-      (2020)"
+    content: "\bTrang thông tin về Ngu Thư Hân - Esther , nàng diễn viên xinh đẹp
+      ngọt ngào đang được yêu thích nhất trong chương trình Thanh Xuân Có Bạn
+      mùa 2 (2020)"
     actions:
       - label: "Cách bình chọn "
         url: /generic
         is_scrolly: false
-        is_primary: false
-    title: " Ngu Thư Hân - Esther Yu - 虞书欣"
+        is_primary: true
+    title: " Ngu Thư Hân"
     img_path: /images/b2d9bcd321d041fd842f3c360d2bb6c9.jpeg
     component: intro.html
   - type: features
@@ -112,7 +112,7 @@ sections:
       - label: " Tìm hiểu thêm"
         url: /generic
         is_scrolly: false
-        is_primary: false
+        is_primary: true
     title: Duis torquent
     subtitle: |-
       Rutrum facilisis. Class aptent taciti sociosqu  
