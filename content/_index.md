@@ -1,22 +1,20 @@
 ---
-title: Home
+title: " Trang chủ"
 sections:
   - type: intro
-    content: |-
-      Lorem ipsum dolor sit magna consectetur  
-      adipiscing elit. Duis dapibus rutrum facilisis.  
-      Class aptent taciti sociosqu torquent.
+    content: Trang thông tin về Ngu Thư Hân - Esther Yu, nàng diễn viên xinh đẹp và
+      ngọt ngào hiện đang được yêu thương nhất  chương trình Thanh Xuân Có bạn
+      (Youth with you) mùa 2
     actions:
-      - label: Get Started
+      - label: "Cách bình chọn "
         url: /generic
         is_scrolly: false
-        is_primary: false
+        is_primary: true
     title: Reflex
-    img_path: images/pic01.jpg
+    img_path: /images/20200315_15842536295912_mobile.jpeg
     component: intro.html
   - type: features
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
       rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
       conubia nostra, per inceptos himenaeos malesuada fames ac turpis egestas.
       In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
@@ -44,8 +42,7 @@ sections:
         icon: fa-briefcase
     component: features.html
   - type: spotlight
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
       rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
       conubia nostra, per inceptos himenaeos malesuada fames ac turpis egestas.
       In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
