@@ -121,9 +121,19 @@ sections:
     subtitle: Cập nhật những tin tức mới nhất về Ngu Thư
     component: spotlight.html
   - type: mission
-    content: ""
+    content: >-
+      Triệu Tiểu Đường: 
+
+
+      > Cô ấy rất biết quan tâm mọi người, Ngu Thư Hân là người đầu tiên đã dọn sạch kí túc. 
+
+
+      Triệu Chí  Vỹ:
+
+
+      > Em ấy thực sự cố gắng rất nhiều để thực hiện cảnh quay lộn lộn người nhiều lần, quyết không dùng diễn viên đóng thế. <br>Tôi cảm thấy tự hào vì là bạn diễn chung với Ngu Thư Hân.
     actions:
-      - label: Get Started
+      - label: " Xem thêm"
         url: /generic
         is_scrolly: false
         is_primary: false
