@@ -7,8 +7,8 @@ sections:
       Xuân<br>Có Bạn mùa 2 (2020)
 
 
-      \"Bởi vì tôi vốn đã xinh đẹp nên <br>buổi tối không cần làm nhiều
-      trò như <br>Khổng Tuyết Nhi, tôi chỉ cần đi ngủ thôi\""
+      ###### \"Bởi vì tôi vốn đã xinh đẹp nên <br>buổi tối không cần làm
+      nhiều trò như <br>Khổng Tuyết Nhi, tôi chỉ cần đi ngủ thôi\""
     actions:
       - label: "Cách bình chọn "
         url: /generic
