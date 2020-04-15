@@ -6,8 +6,8 @@ sections:
       trò  như Khổng Tuyết Nhi,<br>tôi chỉ cần đi ngủ thôi\"
 
 
-      \bTrang thông tin về Ngu Thư Hân - Esther Y,<br>nàng diễn viên xinh
-      đẹp ngọt ngào đang được<br>yêu thích nhất trong chương trình Thanh
+      \bTrang thông tin về Ngu Thư Hân - Esther Yu, <br>nàng diễn viên
+      xinh đẹp ngọt ngào đang được<br>yêu thích nhất trong chương trình Thanh
       Xuân<br>Có Bạn mùa 2 (2020)"
     actions:
       - label: "Cách bình chọn "
