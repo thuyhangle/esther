@@ -14,36 +14,8 @@ sections:
     img_path: /images/20200315_15842536295912_mobile.jpeg
     component: intro.html
   - type: features
-    content: |-
-      ☆Tên Trung : 虞书欣
-
-      ☆Tên Tiếng Việt : Ngu Thư Hân
-
-      ☆Tên Tiếng Anh : Esther - Yu Shu Xin
-
-      ☆Tên Fandom : Tiểu Thạch Lựu - Quả Lựu Đỏ (小石榴 - Xiao Shi Liu)
-
-      ☆Sinh Thần : 18-12-1995
-
-      ☆Chòm Sao : Nhân Mã
-
-      ☆Chiều Cao : 1m68
-
-      ☆Cân Nặng : 50kg
-
-      ☆Nơi Sinh : Thượng Hải - Trung Quốc
-
-      ☆Nghề Nghiệp : Diễn viên, Ca Sĩ 
-
-      ☆Tốt Nghiệp : Đại Học Nghệ Thuật LASALLE College of the Arts
-    actions:
-      - label: Details
-        url: /generic
-        is_scrolly: false
-        is_primary: false
-    title: "\bProfile"
-    subtitle: >-
-      ##### CON ĐƯỜNG NGHỆ THUẬT
+    content: >-
+      CON ĐƯỜNG NGHỆ THUẬT
 
 
       ☆PHIM ĐIỆN ẢNH
@@ -98,6 +70,34 @@ sections:
 
 
       \- 2020 : Thanh Xuân Có Bạn mùa 2
+    actions:
+      - label: Details
+        url: /generic
+        is_scrolly: false
+        is_primary: false
+    title: "\bProfile"
+    subtitle: |-
+      ☆Tên Trung : 虞书欣
+
+      ☆Tên Tiếng Việt : Ngu Thư Hân
+
+      ☆Tên Tiếng Anh : Esther - Yu Shu Xin
+
+      ☆Tên Fandom : Tiểu Thạch Lựu - Quả Lựu Đỏ (小石榴 - Xiao Shi Liu)
+
+      ☆Sinh Thần : 18-12-1995
+
+      ☆Chòm Sao : Nhân Mã
+
+      ☆Chiều Cao : 1m68
+
+      ☆Cân Nặng : 50kg
+
+      ☆Nơi Sinh : Thượng Hải - Trung Quốc
+
+      ☆Nghề Nghiệp : Diễn viên, Ca Sĩ 
+
+      ☆Tốt Nghiệp : Đại Học Nghệ Thuật LASALLE College of the Arts
     symbol_display:
       - title: Film
         icon: fa-film
