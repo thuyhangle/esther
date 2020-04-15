@@ -8,7 +8,7 @@ sections:
 
 
       ###### \"Bởi vì tôi vốn đã xinh đẹp nên buổi tối không cần làm nhiều
-      trò <br> như Khổng Tuyết Nhi, tôi chỉ cần đi ngủ thôi\""
+      trò  như Khổng Tuyết Nhi,<br>tôi chỉ cần đi ngủ thôi\""
     actions:
       - label: "Cách bình chọn "
         url: /generic
