@@ -1,4 +1,4 @@
-actions:	actions: []
+actions:
   - label: Get Started	
     url: /generic	
     is_scrolly: false	
