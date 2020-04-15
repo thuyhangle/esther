@@ -1,11 +1,10 @@
 enabled: true
 title: " Mạng xã hội"
-social_content: ""
+social_content: Tài khoản instagram chính thức của Hân.
 social_links:
   - title: Weibo
     icon: fa-weibo
-    link_url: "#https://m.weibo.cn/u/5620452341?jumpfrom=weibocom&fbclid=IwAR2lhlJP\
-      OyPkGskReSykfFyyltrbtRx83uGo3FQ-YWqs8Dfptf-BbR0uwjc"
+    link_url: https://m.weibo.cn/u/5620452341?jumpfrom=weibocom&fbclid=IwAR2lhlJPOyPkGskReSykfFyyltrbtRx83uGo3FQ-YWqs8Dfptf-BbR0uwjc
   - title: Instagram
     icon: fa-instagram
-    link_url: "#https://www.instagram.com/estheeerrrrr/"
+    link_url: https://www.instagram.com/estheeerrrrr/
